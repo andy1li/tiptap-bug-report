@@ -14,15 +14,6 @@
     "deploy": "scripts/deploy.zsh",
     "backup": "scripts/backup.zsh"
   },
-  "resolutions": {
-    "prosemirror-commands": "1.3.0",
-    "prosemirror-keymap": "1.2.0",
-    "prosemirror-model": "1.18.1",
-    "prosemirror-schema-list": "1.2.0",
-    "prosemirror-state": "1.4.1",
-    "prosemirror-transform": "1.6.0",
-    "prosemirror-view": "1.26.2"
-  },
   "devDependencies": {
     "@roxi/routify": "next",
     "@sveltejs/vite-plugin-svelte": "latest",
